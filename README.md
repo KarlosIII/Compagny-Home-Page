@@ -1,8 +1,8 @@
-# Compagny Home page
+# Company Home page
 
 ## About the project
 
-Compagny Home page project is a Codecademy project made to practice HTML/CSS. I decide to make my project about fictive startup cie taht maybe one I'll make real (like I'm the only one who want to make a startup...).
+Company Home page project is a Codecademy project made to practice HTML/CSS. I decide to make my project about fictive startup cie taht maybe one I'll make real (like I'm the only one who want to make a startup...).
 This is a fictionnal site where everything is created by me but the "projects" section are real idea that I have and would realize once I have the knowedge to do so.
 
 ### Built with
