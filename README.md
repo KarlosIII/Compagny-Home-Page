@@ -5,6 +5,8 @@
 Company Home page project is a Codecademy project made to practice HTML/CSS. I decide to make my project about fictive startup cie taht maybe one I'll make real (like I'm the only one who want to make a startup...).
 This is a fictionnal site where everything is created by me but the "projects" section are real idea that I have and would realize once I have the knowedge to do so.
 
+<img src=https://github.com/KarlosIII/Compagny-Home-Page/blob/main/Screenshot%202.png />
+<img src=https://github.com/KarlosIII/Compagny-Home-Page/blob/main/Screenshot%201.png />
 ### Built with
 
 ![HTML5 and CSS logo](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/html5-css3.jpg?resize=498%2C249&ssl=1)
